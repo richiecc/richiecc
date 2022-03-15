@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hey 👋
+I'm the co-founder and lead developer of https://pharmassistor.com.
 
-<!--
-**richiecc/richiecc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current Projects
+<ul>
+  <li>
+    https://pharmassistor.com
+  </li>
+  <li>
+    https://htmlterminal.com
+    <ul>
+      <li>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/richiecc/html-terminal-src">Source code</a>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Future Projects
+<ul>
+  <li>
+    Not another ecommerce website
+  </li>
+</ul>
