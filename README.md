@@ -20,6 +20,6 @@ I'm the co-founder and lead developer of https://pharmassistor.com.
 ### Future Projects
 <ul>
   <li>
-    Not another ecommerce website
+    Media streaming
   </li>
 </ul>
